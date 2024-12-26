@@ -17,7 +17,7 @@ The core implementation of the genetic algorithm for hyperparameter optimization
 - Mutations and crossovers to explore the hyperparameter space.
 
 ### 2. `example1.ipynb`
-A Jupyter notebook demonstrating the usage of the genetic optimization package on a basic PyTorch model.
+A Jupyter notebook demonstrating the usage of the genetic optimization package on a basic PyTorch model with MNIST digits dataset.
 
 ### 3. `example2.ipynb`
 Another example showcasing more advanced hyperparameter optimization using the genetic algorithm.
